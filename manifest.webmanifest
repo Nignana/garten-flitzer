@@ -1,6 +1,6 @@
 {
-  "name": "Garten-Flitzer",
-  "short_name": "Flitzer",
+  "name": "Rasenraser",
+  "short_name": "Rasenraser",
   "description": "Ferngesteuerte Flitzer-Rennen im Garten.",
   "lang": "de",
   "start_url": "./",
